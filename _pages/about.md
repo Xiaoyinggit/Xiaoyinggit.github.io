@@ -15,5 +15,5 @@ My research interests includes large-scale user behavior modelling, covering rec
 My CV is [here](https://xiaoyinggit.github.io/files/resume.pdf).
 
 # Publications
- + **Xiaoying Zhang**, Junzhou Zhao, John C.S.Lui. *Modeling the Assimilation-Contrast Effects in Online Product
-Rating Systems: Debiasing and Recommendations*, Recsys'17 (**Best Paper Award**)
+ + **Xiaoying Zhang**, Junzhou Zhao, John C.S.Lui.'Modeling the Assimilation-Contrast Effects in Online Product
+Rating Systems: Debiasing and Recommendations', Recsys'17 (**Best Paper Award**)
