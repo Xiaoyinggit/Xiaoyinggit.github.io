@@ -13,7 +13,7 @@ author_profile: true
 # Selected Honors
  + CUHK Postgraduate Studentship. 2015-2019
  + IBM Scholarship, 2014
- + "Xing Ye: Scholarship at USTC, 2013
+ + Xing Ye Scholarship at USTC, 2013
  + USTC Outstanding Student Scholarship (first class), 2012
  + Student Travel Grant for ICNP 2018
  
