@@ -10,4 +10,4 @@ author_profile: true
 {% endif %}
 
  + **Xiaoying Zhang**, Junzhou Zhao, and John C.S. Lui. *Modeling the assimilation-contrast effects in
-online product rating systems: Debiasing and recommendations*. RecSys 2017 (**Best Paper Award**).
+online product rating systems: Debiasing and recommendations*, RecSys 2017,[paper](https://xiaoyinggit.github.io/files/recsys_2017_paper.pdf), [slides](https://xiaoyinggit.github.io/files/Recsys%202017.pdf) (**Best Paper Award**).
