@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoying Zhang/ About me"
+title                    : "Xiaoying Zhang"
 title_separator          : "-"
 name                     : &name "Xiaoying Zhang"
 description              : &description "Viva La Vida"
