@@ -12,4 +12,4 @@ I am Xiaoying Zhang, a fourth-year PhD student in Computer Science and Engineeri
 
 My research interests includes large-scale user behavior modelling, covering recommender systems and fraud detection.
 
-My CV is [here](Xiaoyinggit.github.io/files/resume.pdf).
+My CV is [here](https://xiaoyinggit.github.io/files/resume.pdf).
