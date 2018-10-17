@@ -9,8 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Publications
+ + **Xiaoying Zhang**, Junzhou Zhao, and John Lui. Modeling the assimilation-contrast effects in
+online product rating systems: Debiasing and recommendations. In Proceedings of the Eleventh
+ACM Conference on Recommender Systems(RecSys), 2017 (**Best Paper Award**).
